@@ -615,6 +615,7 @@ D. Tributos por el paso de servicios por su territorio
 <details> 
  <summary>Respuesta</summary> 
 
+Incorrecta sería la D
 <blockquote>
 Los recursos de las Comunidades Autónomas estarán constituidos por: <br>
 
@@ -623,6 +624,7 @@ b) Sus propios impuestos, tasas y contribuciones especiales.  <br>
 c) Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.  <br>
 d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado.  <br>
 e) El producto de las operaciones de crédito.  <br>
+
 </blockquote>
  </details>
 ### 066. Con el fin de corregir desequilibrios económicos interterritoriales y hacer el principio de solidaridad, se constituye:  

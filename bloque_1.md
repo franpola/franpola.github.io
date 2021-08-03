@@ -289,7 +289,7 @@ d) Cinco años
 <details>
      <summary>Respuesta</summary>
 
-d)
+d)  
 
 >Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades >Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido >en el artículo 149.
 </details>

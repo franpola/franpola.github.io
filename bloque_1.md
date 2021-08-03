@@ -291,7 +291,7 @@ d) Cinco años
 
 d)
 
-> Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.
+>Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades >Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido >en el artículo 149.
 </details>
 
 ### 026.La reforma de los Estatutos, requerirá, la aprobación por:  

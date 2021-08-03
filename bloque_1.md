@@ -608,11 +608,23 @@ La delimitación del territorio.
 
 ### 065. Los recursos de las Comunidades Autónomas estarán constituidos por (conteste la incorrecta):  
 
-Impuestos cedidos total o parcialmente por el Estado  
-Sus propias tasas y contribuciones especiales  
-El producto de las operaciones de crédito  
-Tributos por el paso de servicios por su territorio  
+A. Impuestos cedidos total o parcialmente por el Estado  
+B. Sus propias tasas y contribuciones especiales  
+C. El producto de las operaciones de crédito  
+D. Tributos por el paso de servicios por su territorio  
+<details> 
+ <summary>Respuesta</summary> 
 
+<blockquote>
+Los recursos de las Comunidades Autónomas estarán constituidos por: <br>
+
+a) Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.  <br>
+b) Sus propios impuestos, tasas y contribuciones especiales.  <br>
+c) Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.  <br>
+d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado.  <br>
+e) El producto de las operaciones de crédito.  <br>
+</blockquote>
+ </details>
 ### 066. Con el fin de corregir desequilibrios económicos interterritoriales y hacer el principio de solidaridad, se constituye:  
 
 A. Una ayuda per-cápita por habitante.  

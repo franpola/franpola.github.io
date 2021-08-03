@@ -553,45 +553,64 @@ Derecho de asilo
 Los puertos de refugio
 Administración de justicia
 
-### 058. Según el artículo 148 de la Constitución, transcurridos , y mediante la reforma de sus estatutos, las
-Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149:
+### 058. Según el artículo 148 de la Constitución, transcurridos cuantos años , y mediante la reforma de sus estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149:
 
-Dos años.
-Tres años.
-Cuatro años.
-Cinco años.
+A. Dos años.
+B. Tres años.
+C. Cuatro años.
+D. Cinco años.
+<details> 
+ <summary>Respuesta</summary> 
+ 
+<blockquote>
+Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.
+</blockquote>
+ </details>
 
 ### 059. Los acuerdos entre las Comunidades Autónomas:
 
-Podrán celebrarse entre sí para la gestión y prestación de servicios propios de dichas Comunidades.
-No será preciso que se prevean en los respectivos Estatutos los supuestos en que procedan, así como 
-sus requisitos ytérminos.
-Dichos acuerdos no necesitarán la autorización de las Cortes Generales, ni ser comunicados a la misma.
-Todas las otras respuestas son falsas.
+A. Podrán celebrarse entre sí para la gestión y prestación de servicios propios de dichas Comunidades.
+B. No será preciso que se prevean en los respectivos Estatutos los supuestos en que procedan, así como sus requisitos y términos.
+C. Dichos acuerdos no necesitarán la autorización de las Cortes Generales, ni ser comunicados a la misma.
+D. Todas las otras respuestas son falsas.
+<details> 
+ <summary>Respuesta</summary> 
 
+Correcta es la A
+ </details>
 ### 060. ¿Cuál de las siguientes competencias no son de la Comunidades Autónomas?:
 
-El fomento de la cultura, de la investigación
-Sanidad exterior
-La pesca en aguas interiores
-Los montes y aprovechamientos forestales
+A. El fomento de la cultura, de la investigación
+B. Sanidad exterior
+C. La pesca en aguas interiores
+D. Los montes y aprovechamientos forestales
+<details> 
+ <summary>Respuesta</summary> 
 
-### 061. Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá:  
+La sanidad exterior es competencia del Estado, no de las Comunidades Autónomas.
+ </details>
 
-Un fondo de ayuda a las Comunidades Autónomas  
-Un fondo reservado, con el fin de solucionar los desequilibrios entre Comunidades Autónomas  
-Un fondo de compensaciones autónomas  
-Un fondo de compensación interterritorial  
+### 061.El control de la actividad de los órganos de las Comunidades Autónomas, en lo relativo al ejercicio de las funciones delegadas respecto de las materias de competencia exclusiva del Estado, corresponderá:  
 
-### 062.El control de la actividad de los órganos de las Comunidades Autónomas, en lo relativo al 
-ejercicio de las funciones delegadas respecto de las materias de competencia exclusiva del Estado, corresponderá:  
+A. A la jurisdicción contencioso administrativa.  
+B. Al Tribunal Constitucional.  
+C. Al Gobierno, previo dictamen del Consejo de Estado.  
+D. Al Tribunal de Cuentas.  
+<details> 
+ <summary>Respuesta</summary> 
 
-A la jurisdicción contencioso administrativa.  
-Al Tribunal Constitucional.  
-Al Gobierno, previo dictamen del Consejo de Estado.  
-Al Tribunal de Cuentas.  
+La correcta seria la C.
+<blockquote>
+El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:  <br>
 
-### 063.Según el art. 141.4 de la Constitución, en los archipiélagos, las islas tendrán además su administración propia en forma de:  
+a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.  <br>
+b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150.  <br>
+c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.  <br>
+d) Por el Tribunal de Cuentas, el económico y presupuestario  <br>
+</blockquote>
+ </details>
+
+### 062.Según el art. 141.4 de la Constitución, en los archipiélagos, las islas tendrán además su administración propia en forma de:  
 
 A. Diputaciones  
 B. Subdelegación de Gobierno  
@@ -606,7 +625,7 @@ En los archipiélagos, las islas tendrán además su administración propia en f
 </blockquote>
  </details>
 
-### 064. No podrán dictar, por sí mismas, normativa alguna. ¿Cuál de los siguientes extremos no debe aparecer obligatoriamente en un Estatuto de Autonomía?  
+### 063. No podrán dictar, por sí mismas, normativa alguna. ¿Cuál de los siguientes extremos no debe aparecer obligatoriamente en un Estatuto de Autonomía?  
 
 A. La sede de las Instituciones.  
 B. Las competencias asumidas.  
@@ -625,7 +644,8 @@ c) La denominación, organización y sede de las instituciones autónomas propia
 d) Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.   <br>
 </blockquote>
  </details>
-### 065. Los recursos de las Comunidades Autónomas estarán constituidos por (conteste la incorrecta):  
+
+### 064. Los recursos de las Comunidades Autónomas estarán constituidos por (conteste la incorrecta):  
 
 A. Impuestos cedidos total o parcialmente por el Estado  
 B. Sus propias tasas y contribuciones especiales  
@@ -643,10 +663,10 @@ b) Sus propios impuestos, tasas y contribuciones especiales.  <br>
 c) Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.  <br>
 d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado.  <br>
 e) El producto de las operaciones de crédito.  <br>
-
 </blockquote>
  </details>
-### 066. Con el fin de corregir desequilibrios económicos interterritoriales y hacer el principio de solidaridad, se constituye:  
+
+### 065. Con el fin de corregir desequilibrios económicos interterritoriales y hacer el principio de solidaridad, se constituye:  
 
 A. Una ayuda per-cápita por habitante.  
 B. Un fondo asignado por la Comunidad Autónoma.  
@@ -659,7 +679,8 @@ D. Todas las anteriores son correctas.
 Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
 </blockquote>
  </details>
-### 067. ¿Cuál de las siguientes competencias son del Estado?:  
+
+### 066. ¿Cuál de las siguientes competencias son del Estado?:  
 
 A. Deuda pública  
 B. Sanidad exterior  
@@ -677,7 +698,7 @@ Las negociadas con el gobierno central en el proceso autonómico
 Todas  
 Ningunas  
 
-### 069. ¿Cuál de las siguientes afirmaciones son correctas?:  
+### 067. ¿Cuál de las siguientes afirmaciones son correctas?:  
 
 A. Una Ley Orgánica garantizará la autonomía de los municipios  
 B. La provincia es una entidad local sin personalidad jurídica propia  

@@ -636,9 +636,17 @@ Ningunas
 
 ### 069. ¿Cuál de las siguientes afirmaciones son correctas?:  
 
-Una Ley Orgánica garantizará la autonomía de los municipios  
-La provincia es una entidad local sin personalidad jurídica propia  
-No todos los españoles tienen los mismos derechos y obligaciones  
-Se podrán crear agrupaciones de municipios diferentes de la provincia  
+A. Una Ley Orgánica garantizará la autonomía de los municipios  
+B. La provincia es una entidad local sin personalidad jurídica propia  
+C. No todos los españoles tienen los mismos derechos y obligaciones  
+D. Se podrán crear agrupaciones de municipios diferentes de la provincia  
+<details> 
+ <summary>Respuestas</summary>
+
+A. Falso. Es la Constitución la que lo garantiza.
+B. Falso. La provincia es una entidad local con entidad jurídica propia.
+C. Falso. Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.
+D. Correcto. Artículo 141.3
+ </details>
 
 

@@ -540,10 +540,10 @@ Todas las anteriores son correctas.
 
 ### 056. Respecto de una de las siguientes materias, por ser exclusiva del Estado, no podrán ser asumidas competencias, en principio, por las Comunidades Autónomas:
 
-A. Regulación de las condiciones de obtención, expedición y homologación de títulos académicos.
-B. Patrimonio monumental de interés de la Comunidad Autónoma.
-C. Ferias interiores.
-D. Aguas minerales y termales.
+A. Regulación de las condiciones de obtención, expedición y homologación de títulos académicos.  
+B. Patrimonio monumental de interés de la Comunidad Autónoma.  
+C. Ferias interiores.  
+D. Aguas minerales y termales.  
 <details> 
  <summary>Respuesta</summary> 
 

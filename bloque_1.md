@@ -653,7 +653,7 @@ D. Se podrán crear agrupaciones de municipios diferentes de la provincia
 <details> 
  <summary>Respuestas</summary>
 
-A. *Falso*. Es la Constitución la que lo garantiza.  <br>
+A. **Falso**. Es la Constitución la que lo garantiza.  <br>
 B. Falso. La provincia es una entidad local con entidad jurídica propia.   <br>
 C. Falso. Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.   <br>
 D. Correcto. Artículo 141.3  

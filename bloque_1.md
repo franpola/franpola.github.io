@@ -591,21 +591,40 @@ Al Tribunal Constitucional.
 Al Gobierno, previo dictamen del Consejo de Estado.  
 Al Tribunal de Cuentas.  
 
-### 063.Según el art. 141.4 de la Constitución, en los archipiélagos, las islas tendrán además su 
-administración propia en forma de:  
+### 063.Según el art. 141.4 de la Constitución, en los archipiélagos, las islas tendrán además su administración propia en forma de:  
 
-Diputaciones  
-Subdelegación de Gobierno  
-Consejos  
-Las respuestas A) y C) son correctas  
+A. Diputaciones  
+B. Subdelegación de Gobierno  
+C. Consejos  
+D. Las respuestas A) y C) son correctas  
+<details> 
+ <summary>Respuesta</summary> 
+
+La C.
+<blockquote>
+En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.
+</blockquote>
+ </details>
 
 ### 064. No podrán dictar, por sí mismas, normativa alguna. ¿Cuál de los siguientes extremos no debe aparecer obligatoriamente en un Estatuto de Autonomía?  
 
-La sede de las Instituciones.  
-Las competencias asumidas.  
-Las competencias por asumir.  
-La delimitación del territorio.  
+A. La sede de las Instituciones.  
+B. Las competencias asumidas.  
+C. Las competencias por asumir.  
+D. La delimitación del territorio.  
+<details> 
+ <summary>Respuesta</summary> 
 
+Las competencias por asumir no aparecen en el artículo 147
+<blockquote>
+Los Estatutos de autonomía deberán contener:  <br>
+
+a) La denominación de la Comunidad que mejor corresponda a su identidad histórica.   <br>
+b) La delimitación de su territorio.   <br>
+c) La denominación, organización y sede de las instituciones autónomas propias.   <br>
+d) Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.   <br>
+</blockquote>
+ </details>
 ### 065. Los recursos de las Comunidades Autónomas estarán constituidos por (conteste la incorrecta):  
 
 A. Impuestos cedidos total o parcialmente por el Estado  

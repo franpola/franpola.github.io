@@ -7,7 +7,10 @@ D. Falso, ya que debe designarse por las Cortes.
 <details>
     <summary>Respuesta</summary>
 
-La respuesta es B. Si fuera menor de edad sería Regente el padre, madre o pariente más próximo a suceder la Corona.
+La respuesta es B. 
+<blockquote>
+Si fuera menor de edad sería Regente el padre, madre o pariente más próximo a suceder la Corona.
+</blockquote>
 </details>
 
 ### 2.No corresponde al Rey:     

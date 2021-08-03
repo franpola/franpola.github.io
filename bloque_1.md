@@ -555,13 +555,13 @@ Administración de justicia
 
 ### 058. Según el artículo 148 de la Constitución, transcurridos cuantos años , y mediante la reforma de sus estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149:
 
-A. Dos años.
-B. Tres años.
-C. Cuatro años.
-D. Cinco años.
+A. Dos años.  
+B. Tres años.  
+C. Cuatro años.  
+D. Cinco años.  
 <details> 
  <summary>Respuesta</summary> 
- 
+
 <blockquote>
 Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.
 </blockquote>
@@ -569,21 +569,22 @@ Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidad
 
 ### 059. Los acuerdos entre las Comunidades Autónomas:
 
-A. Podrán celebrarse entre sí para la gestión y prestación de servicios propios de dichas Comunidades.
-B. No será preciso que se prevean en los respectivos Estatutos los supuestos en que procedan, así como sus requisitos y términos.
-C. Dichos acuerdos no necesitarán la autorización de las Cortes Generales, ni ser comunicados a la misma.
-D. Todas las otras respuestas son falsas.
+A. Podrán celebrarse entre sí para la gestión y prestación de servicios propios de dichas Comunidades.  
+B. No será preciso que se prevean en los respectivos Estatutos los supuestos en que procedan, así como sus requisitos y términos.  
+C. Dichos acuerdos no necesitarán la autorización de las Cortes Generales, ni ser comunicados a la misma.  
+D. Todas las otras respuestas son falsas.  
 <details> 
  <summary>Respuesta</summary> 
 
 Correcta es la A
  </details>
+
 ### 060. ¿Cuál de las siguientes competencias no son de la Comunidades Autónomas?:
 
-A. El fomento de la cultura, de la investigación
-B. Sanidad exterior
-C. La pesca en aguas interiores
-D. Los montes y aprovechamientos forestales
+A. El fomento de la cultura, de la investigación  
+B. Sanidad exterior  
+C. La pesca en aguas interiores  
+D. Los montes y aprovechamientos forestales  
 <details> 
  <summary>Respuesta</summary> 
 

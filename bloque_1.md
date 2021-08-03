@@ -615,18 +615,28 @@ Tributos por el paso de servicios por su territorio
 
 ### 066. Con el fin de corregir desequilibrios económicos interterritoriales y hacer el principio de solidaridad, se constituye:  
 
-Una ayuda per-cápita por habitante.  
-Un fondo asignado por la Comunidad Autónoma.  
-Un fondo de compensación.  
-Todas las anteriores son correctas.  
+A. Una ayuda per-cápita por habitante.  
+B. Un fondo asignado por la Comunidad Autónoma.  
+C. Un fondo de compensación.  
+D. Todas las anteriores son correctas.  
+<details> 
+ <summary>Respuesta</summary> 
 
+<blockquote>
+Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
+</blockquote>
+ </details>
 ### 067. ¿Cuál de las siguientes competencias son del Estado?:  
 
-Deuda pública  
-Sanidad exterior  
-Legislación sobre propiedad intelectual e industrial  
-Todas son correctas  
+A. Deuda pública  
+B. Sanidad exterior  
+C. Legislación sobre propiedad intelectual e industrial  
+D. Todas son correctas  
+<details> 
+ <summary>Respuesta</summary> 
 
+D. Todas son correctas
+ </details>
 ### 068. ¿Qué competencias del artículo 151 asumen las Comunidades Autónomas históricas?  
 
 Las negociadas con el gobierno central tras el proceso autonómico  

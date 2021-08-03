@@ -9,3 +9,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   input: Kramdown
+github_button_location_top_navbar: true

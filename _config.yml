@@ -3,10 +3,12 @@ safe: true
 source: "https://franpola.github.io"
 incremental: false
 highlighter: rouge
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 gist:
   noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-  input: Kramdown
 github_button_location_top_navbar: true

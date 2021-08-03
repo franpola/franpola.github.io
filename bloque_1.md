@@ -538,21 +538,28 @@ De tributos de participación del Estado.
 De tributos de participación de las Comunidades Autónomas.
 Todas las anteriores son correctas.
 
-### 056. Respecto de una de las siguientes materias, por ser exclusiva del Estado, no podrán ser 
-asumidas competencias, en principio, por las Comunidades Autónomas:
+### 056. Respecto de una de las siguientes materias, por ser exclusiva del Estado, no podrán ser asumidas competencias, en principio, por las Comunidades Autónomas:
 
-Regulación de las condiciones de obtención, expedición y homologación de títulos académicos.
-Patrimonio monumental de interés de la Comunidad Autónoma.
-Ferias interiores.
-Aguas minerales y termales.
+A. Regulación de las condiciones de obtención, expedición y homologación de títulos académicos.
+B. Patrimonio monumental de interés de la Comunidad Autónoma.
+C. Ferias interiores.
+D. Aguas minerales y termales.
+<details> 
+ <summary>Respuesta</summary> 
 
+La A. El estado tiene competencia exclusiva entre otras a la expedición y homologación de títulos académicos.
+ </details>
 ### 057. ¿Cuál de las siguientes competencias no son propias del Estado?:
 
-Legislación laboral
-Derecho de asilo
-Los puertos de refugio
-Administración de justicia
+A. Legislación laboral  
+B. Derecho de asilo  
+C. Los puertos de refugio  
+D. Administración de justicia  
+<details> 
+ <summary>Respuesta</summary> 
 
+La C. Los puertos de refugio son competencia de las Comunidades Autónomas.
+ </details>
 ### 058. Según el artículo 148 de la Constitución, transcurridos cuantos años , y mediante la reforma de sus estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149:
 
 A. Dos años.  

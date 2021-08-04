@@ -18,6 +18,13 @@ Es uno cuando una o las dos entradas son uno. <br>
 <img src="images/OR_gate.jpg" alt="OR_gate">
 </details>
 
+<details> 
+<summary>Puerta NOR</summary> 
+
+Al contrario que la OR solo es uno cuando ambas entradas son 0. <br>
+
+<img src="images/NOR_gate.jpg" alt="NOR_gate">
+</details>
 ### Puertas XOR y XNOR
 <details>
 <summary>Puerta XOR</summary> 
@@ -35,15 +42,7 @@ La salida es 1 cuando las entradas son iguales <br>
 
 
 # Puertas con lógica negada
-<details> 
-<summary>Puerta NOR</summary> 
-  
- - Es la negación de una Puerta OR.
- - **A + B = Salida(!)**
-  
-  )
 
-</details>
 
 <details> 
 <summary>Puerta NAND</summary> 

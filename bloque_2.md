@@ -2,9 +2,9 @@
 
 ### 001. Utiliza 8 bits para representar cada carácter, por lo que puede codificar hasta 256 símbolos distintos
 
-A Código Binario
-B Código EBCDIC
-C Código ASCII
+A Código Binario  
+B Código EBCDIC  
+C Código ASCII  
 D Código BCD de intercambio normalizado
 
 <details> 
@@ -18,10 +18,10 @@ Preceded by  BCD
  </details>
 
 ### 002. En el comienzo de cada ciclo de instrucción la CPU busca en la memoria una instrucción. En una CPU tipo Von Neumann para realizar esta tarea se dispone de un registro especial llamado.
-A Contador de programa
-B Contador de ciclo
-C Contador de instrucción
-D Registro de control
+A Contador de programa  
+B Contador de ciclo  
+C Contador de instrucción  
+D Registro de control  
 <details> 
  <summary>Respuesta</summary> 
 

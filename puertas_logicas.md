@@ -13,14 +13,9 @@
 <details>
 <summary>Puerta OR</summary> 
   
-Es uno si cualquiera o las dos entradas son uno o tienen un uno. <br>
+Es uno cuando una o las dos entradas son uno. <br>
 
-| A | B | A+B |
-|---|---|-----|
-| 0 | 0 |     |   
-| 0 | 1 |     |   
-| 1 | 0 |     |   
-| 1 | 1 |     | 
+![OR Gate](./images/OR_gate.jpg)
 </details>
 
 ### Puertas XOR y XNOR

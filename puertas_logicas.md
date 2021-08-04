@@ -24,7 +24,7 @@ Es uno si cualquiera o las dos entradas son uno o tienen un uno.
 </details>
 
 ### Puertas XOR y XNOR
-
+<details>
 <summary>Puerta XOR</summary> 
   
 La salida es 1 cuando las entradas son diferentes<br>

@@ -1,6 +1,6 @@
 ### Preguntas del Bloque 2
 
-### Utiliza 8 bits para representar cada carácter, por lo que puede codificar hasta 256 símbolos distintos
+### 001. Utiliza 8 bits para representar cada carácter, por lo que puede codificar hasta 256 símbolos distintos
 
 A Código Binario
 B Código EBCDIC
@@ -17,15 +17,26 @@ Preceded by  BCD
 </blockquote>
  </details>
 
-**En el comienzo de cada ciclo de instrucción la CPU busca en la memoria una instrucción. En una CPU tipo Von Neumann para realizar esta tarea se dispone de un registro especial llamado..**
+### 002. En el comienzo de cada ciclo de instrucción la CPU busca en la memoria una instrucción. En una CPU tipo Von Neumann para realizar esta tarea se dispone de un registro especial llamado.
 A Contador de programa
 B Contador de ciclo
 C Contador de instrucción
 D Registro de control
+<details> 
+ <summary>Respuesta</summary> 
 
-- Solución
+A.
+<blockquote> 
+En la arquitectura Von Neumann es importante conocer el ciclo fetch-decode-execute que procesa las instrucciones de un programa. Los pasos son: <br>
+1. La dirección de memoria almacenada en el contador de programa se copia en el registro de dirección de memoria o (RDM)-(MAR). <br>
+2. La dirección en el cp aumenta en un valor, almacenando así la siguiente dirección de memoria que se ha de buscar. <br>
+3. El procesador envía una señal al bus de direcciones de memoria con la dirección previamente almacenada en el RDM-MAR <br>
+4. La instrucción o información que contiene esa dirección de memoria se envía por el bus de datos hacia el registro de datos de memoria RDM - MDR <br>
+5. La instrucción o datos contenidos en el RDM- MDR se copian en el registro de instrucción. (RI o CIR) <br>
+6. Los datos o instruciones almacenados en el RI o CIR se descodifican y luego se ejecuta para ser finalmente almacenados en el acumulador de la ALU que es un registro de almacenamiento temporal.
+ </blockquote>
+ </details>
 
-    A. [https://es.wikipedia.org/wiki/Ciclo_de_instrucción](https://es.wikipedia.org/wiki/Ciclo_de_instrucci%C3%B3n)
 
 **¿Qué es un Nibble?**
 A. 4 bits C. 16 bits

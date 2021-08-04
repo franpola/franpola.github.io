@@ -13,7 +13,7 @@
 <details>
 <summary>Puerta OR</summary> 
   
-Es uno si cualquiera o las dos entradas son uno o tienen un uno.
+Es uno si cualquiera o las dos entradas son uno o tienen un uno. <br>
 
 | A | B | A+B |
 |---|---|-----|

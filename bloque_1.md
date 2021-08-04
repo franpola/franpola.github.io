@@ -549,6 +549,7 @@ D. Aguas minerales y termales.
 
 La A. El estado tiene competencia exclusiva entre otras a la expedición y homologación de títulos académicos.
  </details>
+
 ### 057. ¿Cuál de las siguientes competencias no son propias del Estado?:
 
 A. Legislación laboral  
@@ -560,6 +561,7 @@ D. Administración de justicia
 
 La C. Los puertos de refugio son competencia de las Comunidades Autónomas.
  </details>
+ 
 ### 058. Según el artículo 148 de la Constitución, transcurridos cuantos años , y mediante la reforma de sus estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149:
 
 A. Dos años.  

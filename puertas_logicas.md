@@ -15,7 +15,7 @@
   
 Es uno cuando una o las dos entradas son uno. <br>
 
-![OR Gate](/images/OR_gate.jpg)
+<img src="OR_gate.jpg" alt="OR_gate">
 </details>
 
 ### Puertas XOR y XNOR

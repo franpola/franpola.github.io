@@ -38,26 +38,40 @@ En la arquitectura Von Neumann es importante conocer el ciclo fetch-decode-execu
  </details>
 
 
-**¿Qué es un Nibble?**
-A. 4 bits C. 16 bits
-B. 2 bits D. 8 bits
+### 003 ¿Qué es un Nibble?**
+A. 4 bits  
+B. 2 bits   
+C. 16 bits  
+D. 8 bits  
 
-- Solución
+<details> 
+ <summary>Respuesta</summary> 
 
-    A. Un nibble son 4 bits o medio octeto.
+A. Un nibble son 4 bits o medio octeto.
+ </details>
 
-**Existen tres tipos de buses principales**
-A. De datos, de dirección y de ejecución                                                                                              B. De datos, de dirección y de registro                                                                                                  C. De datos, de dirección y de control                                                                                                  D. De Datos, de dirección y de memoria
+### 004. Existen tres tipos de buses principales
 
-- Solución
+A. De datos, de dirección y de ejecución
+B. De datos, de dirección y de registro
+C. De datos, de dirección y de control
+D. De Datos, de dirección y de memoria
+<details> 
+ <summary>Respuesta</summary> 
 
-    C.  [https://es.wikipedia.org/wiki/Bus_(informática)#Buses:_de_control,_de_direcciones_y_de_datos](https://es.wikipedia.org/wiki/Bus_(inform%C3%A1tica)#Buses:_de_control,_de_direcciones_y_de_datos)
+D.
+</details>
 
-**El registro Contador de programa**                                                                                                        A. contiene la dirección de la instrucción siguiente que hay que leer de la CPU                                 B. contiene la dirección de la instrucción siguiente que hay que ejecutar                                            C. contiene la dirección del siguiente registro que hay que leer de la memoria                                        D. contiene la dirección de la instrucción siguiente que hay que leer de la memoria
+### 005. El registro contador de Programa
 
-- Solución
-
-    D.  [https://en.wikipedia.org/wiki/Program_counter](https://en.wikipedia.org/wiki/Program_counter)
+A. contiene la dirección de la instrucción siguiente que hay que leer de la CPU
+B. contiene la dirección de la instrucción siguiente que hay que ejecutar
+C. contiene la dirección del siguiente registro que hay que leer de la  memoria
+D. contiene la dirección de la instrucción siguiente que hay que leer de la memoria
+<details> 
+ <summary>Respuesta</summary> 
+D.
+</details>
 
 **El registro de instrucción**                                                                                                                      A. Contiene las instrucciones que se han ejecutado                                                                              B. Contiene la instrucción que hay en la memoria                                                                                      C. Contiene la instrucción que hay que ejecutar                                                                                   D. Contiene la instrucción que hay que registrar
 

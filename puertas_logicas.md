@@ -1,8 +1,3 @@
-# Puertas con lógica directa
-Una puerta lógica, o compuerta lógica, es un dispositivo electrónico con una función **booleana**.<br>
-Es una de las operaciones que realiza la ALU.
-<details> 
-
 
 <details> 
 <summary>Puerta AND</summary> 

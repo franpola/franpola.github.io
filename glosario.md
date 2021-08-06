@@ -15,20 +15,20 @@ en la que se especifican las características físicas de la base de datos. Esta
 ## Esque conceptual modelo E-R
 conjuntos de entidades, conjuntos de relaciones y restricciones de correspondencia.
 
-### Bloque 4
+# Bloque 4
 
-# Seguridad física
+### Seguridad física
 Es el conjunto de mecanismos y acciones que buscan la detección y prevención de riesgos, con el fin de proteger algún recurso o bien <b>material</b>
 
-# Seguridad lógica 
+### Seguridad lógica 
 Se refiere a la seguridad en el uso de software y los sistemas, la protección de los datos, procesos y programas, así como la del acceso ordenado y autorizado de los usuarios a la información. 
 
-# Seguridad perimetral
+### Seguridad perimetral
 La seguridad perimetral corresponde a la integración de elementos y sistemas, tanto electrónicos1​ como mecánicos, para la protección de perímetros físicos, detección de tentativas de intrusión y/o disuasión de intrusos en instalaciones especialmente sensibles.  
         - Sistemas Perimetrales Abiertos: Los que dependen de las condiciones ambientales para detectar.  Como ejemplo, la video vigilancia.  
         - Sistemas Perimetrales Cerrados: Los que no dependen del medio ambiente y controlan exclusivamente el parámetro de control.  
 
-## Niveles TSEC de Seguridad
+### Niveles TSEC de Seguridad
 
 - Nivel D1: el sistema entero no es confiable y no cumple con ninguna especificación de seguridad. No hay protección de hardware ni autenticación de los usuarios.
 - Nivel C1: se implementa un acceso de control discrecional y la identificación y autenticación de los usuarios. Se introduce así la distinción entre usuarios y administradores de sistema.

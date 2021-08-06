@@ -26,4 +26,14 @@ Se refiere a la seguridad en el uso de software y los sistemas, la protección d
 # Seguridad perimetral
 La seguridad perimetral corresponde a la integración de elementos y sistemas, tanto electrónicos1​ como mecánicos, para la protección de perímetros físicos, detección de tentativas de intrusión y/o disuasión de intrusos en instalaciones especialmente sensibles.  
         - Sistemas Perimetrales Abiertos: Los que dependen de las condiciones ambientales para detectar.  Como ejemplo, la video vigilancia.  
-        - Sistemas Perimetrales Cerrados: Los que no dependen del medio ambiente y controlan exclusivamente el parámetro de control.
+        - Sistemas Perimetrales Cerrados: Los que no dependen del medio ambiente y controlan exclusivamente el parámetro de control.  
+
+## Niveles TSEC de Seguridad
+
+- Nivel D1: el sistema entero no es confiable y no cumple con ninguna especificación de seguridad. No hay protección de hardware ni autenticación de los usuarios.
+- Nivel C1: se implementa un acceso de control discrecional y la identificación y autenticación de los usuarios. Se introduce así la distinción entre usuarios y administradores de sistema.
+- Nivel C2: implementa una protección de acceso controlado y requiere una auditoría del sistema.
+- Nivel B1: implementa una protección de seguridad etiquetada, mediante la cual se asigna una etiqueta a cada objeto del sistema, tanto datos como usuarios, con niveles de seguridad jerárquicos (multinivel).
+- Nivel B2: se implementa una protección estructurada, por la cual se etiquetan objetos de nivel superior en relación con objetos de nivel inferior.
+- Nivel B3: implementa dominios de seguridad y distintas políticas de acceso, gestionadas por un monitor de referencia y requiere una acceso seguro del usuario.
+- Nivel A: implementa un proceso de diseño, control y verificación mediante métodos matemáticos. Es el nivel de seguridad más elevado
